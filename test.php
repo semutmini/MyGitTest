@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-MyHello("Sailor");
+MyHello("Sailor Moon");
 
 function MyHello($str) {
     echo '<p>Hello' . $str . '!</p>';
